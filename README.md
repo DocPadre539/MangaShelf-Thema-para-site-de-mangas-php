@@ -9,7 +9,7 @@ Visual elegante estilo **dark premium**, inspirado nos melhores leitores profiss
 Interface completamente estilizada com foco em leitura, organização e administração simples.
 
 ### 📷 Tela de adicionar mangá
-[[![Adicionar mangá](IMAGE1)](IMAGE1)](https://i.postimg.cc/kG28Q2bK/6.png)
+<img src="https://i.postimg.cc/kG28Q2bK/6.png" width="400">
 
 ### 📷 Tela com dados importados automaticamente da MangaDex
 [![Importação MangaDex](IMAGE2)](IMAGE2)
