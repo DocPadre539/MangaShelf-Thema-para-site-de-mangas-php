@@ -9,7 +9,7 @@ Visual elegante estilo **dark premium**, inspirado nos melhores leitores profiss
 Interface completamente estilizada com foco em leitura, organização e administração simples.
 
 ### 📷 Tela de adicionar mangá
-[[![Adicionar mangá](IMAGE1)](IMAGE1)](https://i.postimg.cc/kG28Q2bK/6.png)
+![texto alternativo](https://i.postimg.cc/kG28Q2bK/6.png)
 
 ### 📷 Tela com dados importados automaticamente da MangaDex
 ![texto alternativo](https://i.postimg.cc/T1KmVKDq/7.png)
@@ -39,7 +39,7 @@ Inclui capa grande, sinopse, estatísticas, tags, informações detalhadas e lis
 
 ## ⭐ **Área do usuário**
 Favoritos, notificações de novos capítulos e sistema exclusivo para organização pessoal.
-![texto alternativo](https://i.postimg.cc/kG28Q2bK/6.png)
+![texto alternativo](https://i.postimg.cc/kG28Q2bY/3.png)
 
 
 ---
@@ -47,7 +47,7 @@ Favoritos, notificações de novos capítulos e sistema exclusivo para organiza�
 ## 🛠️ **Painel Admin completo**
 Gerencie o site inteiro: configurações, usuários, permissões, temas, login, tradução de tags e muito mais.
 
-![texto alternativo](https://i.postimg.cc/kG28Q2bY/3.png)
+![texto alternativo](https://i.postimg.cc/T1KmVKDp/4.png)
 
 
 ---
@@ -57,10 +57,6 @@ Visualize todos os mangás cadastrados com informações rápidas e ações dire
 
 ![texto alternativo](https://i.postimg.cc/VvJMqJCt/5.png)
 
-## 📋 **Pagina admin**
-Consegue fazer absolutamente tudo aqui.
-
-![texto alternativo](https://i.postimg.cc/T1KmVKDp/4.png)
 
 
 ---
