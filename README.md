@@ -1,4 +1,4 @@
-# 📚 MangaShelf — Tema Completo para Sites de Leitura de Mangás / Webtoons
+# 📚 MangaShelf — Tema Completo para Sites de mangas, para scans / Webtoons
 
 Um tema moderno, rápido e totalmente responsivo criado para projetos de leitura de mangás, novels, HQs e webtoons.  
 Visual elegante estilo **dark premium**, inspirado nos melhores leitores profissionais.
