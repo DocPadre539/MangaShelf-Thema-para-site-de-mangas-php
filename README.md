@@ -1,103 +1,274 @@
-# 📚 MangaShelf — Tema Completo para Sites de mangas, para scans / Webtoons
+# 📚 MangaShelf — Tema Premium para Sites de Mangás  
+Interface moderna, completa e integrada com APIs profissionais.
 
-Um tema moderno, rápido e totalmente responsivo criado para projetos de leitura de mangás, novels, HQs e webtoons.  
-Visual elegante estilo **dark premium**, inspirado nos melhores leitores profissionais.
-
----
-
-## 🎨 **Design moderno e consistente**
-Interface completamente estilizada com foco em leitura, organização e administração simples.
-
-### 📷 Tela de adicionar mangá
-![texto alternativo](https://i.postimg.cc/kG28Q2bK/6.png)
-
-### 📷 Tela com dados importados automaticamente da MangaDex
-![texto alternativo](https://i.postimg.cc/T1KmVKDq/7.png)
-
-
-### 📷 Adicionar capítulo (PDF, ZIP ou imagens individuais)
-![texto alternativo](https://i.postimg.cc/MHnR7nQR/8.png)
-
+💰 **Preço: R$ 250 à vista**  
+📞 WhatsApp: **47984170674**  
+💬 Discord: **paadree**
 
 ---
 
-## 🏠 **Home moderna com filtros inteligentes**
-Cards grandes, imagens em alta qualidade, tags interativas e área de capítulos recentes.
+## 🌙 Visão Geral
 
-![texto alternativo](https://i.postimg.cc/D0SsrSXM/1.png)
+O **MangaShelf** é um tema premium completo para criação de sites de mangás, manhwas e webtoons utilizando **PHP + MySQL + Tailwind**.
 
-
----
-
-## 📖 **Página interna do mangá**
-Inclui capa grande, sinopse, estatísticas, tags, informações detalhadas e lista de capítulos.
-
-![texto alternativo](https://i.postimg.cc/2y1vQ1ZJ/2.png)
-
+Inclui:
+- Painel admin completo  
+- Sistema de capítulos  
+- Importação automática via APIs  
+- Login, registro, favoritos e notificações  
+- Tema dark moderno  
+- UI inspirada em plataformas internacionais  
 
 ---
 
-## ⭐ **Área do usuário**
-Favoritos, notificações de novos capítulos e sistema exclusivo para organização pessoal.
-![texto alternativo](https://i.postimg.cc/kG28Q2bY/3.png)
+# 🚀 Funcionalidades Principais
 
+## 🔗 Integração com APIs
+- **MangaDex API**
+- **MyAnimeList via Jikan**
+- **MangaUpdates**
 
----
+Importação automática de:
+- Capas  
+- Títulos alternativos  
+- Autores e artistas  
+- Gêneros / tags  
+- Sinopses traduzidas  
+- Metadados adicionais  
 
-## 🛠️ **Painel Admin completo**
-Gerencie o site inteiro: configurações, usuários, permissões, temas, login, tradução de tags e muito mais.
-
-![texto alternativo](https://i.postimg.cc/T1KmVKDp/4.png)
-
-
----
-
-## 📋 **Gerenciador de mangás**
-Visualize todos os mangás cadastrados com informações rápidas e ações diretas.
-
-![texto alternativo](https://i.postimg.cc/VvJMqJCt/5.png)
-
-
+Um clique e tudo aparece preenchido.
 
 ---
 
-# 🚀 **Funcionalidades incluídas no tema**
+# 🎨 Design Moderno e Responsivo
 
-- Importação automática do MangaDex (ID → título, autor, tags, sinopse, capa etc.)  
-- Adicionar mangás manualmente  
-- Upload de capítulos:
-  - PDF  
-  - ZIP com imagens  
-  - Imagens individuais  
-  - Upload em lote para capítulos múltiplos  
-- Filtros por tags  
-- Seção de capítulos recentes  
+As telas abaixo são **exatamente o que o comprador recebe**.
+
+---
+
+# 🟦 Tela: Importar Manga (MangaDex / MAL)
+- Busca instantânea por título  
+- Exibição das capas nos resultados  
+- Preenchimento automático de campos  
+- Botão “Importar automaticamente”  
+- Capa carregada diretamente do MangaDex  
+- Gêneros convertidos automaticamente  
+
+---
+
+# 🟦 Tela: Cadastro de Manga (Manual)
+Campos disponíveis:
+
+- Título  
+- Título alternativo  
+- Tipo (Manga, Manhwa, Manhua)  
+- Autor  
+- Artista  
+- Ano  
+- Conteúdo adulto  
+- Tags  
+- Descrição  
+- Upload de capa  
+
+Tudo padronizado com UI elegante.
+
+---
+
+# 🟦 Tela Inicial (Home)
+Inclui:
+- Barra de pesquisa dinâmica  
+- Tags como filtros rápidos  
+- Lista de capítulos recentes  
+- Exibição de mangas em Cards ou Lista  
+- Coluna lateral com:
+  - Mangás mais clicados  
+  - Atualizações recentes  
+
+O layout é extremamente limpo e profissional.
+
+---
+
+# 🟦 Página do Manga
+Contém:
+- Banner com capa estendida  
+- Título + título alternativo  
+- Tags estilizadas  
+- Botão “Favoritar” ou “Entrar e favoritar”  
 - Contador de views  
-- Sistema de favoritos e notificações  
-- Área do usuário completa  
-- Área admin com permissões detalhadas  
-- Tema Dark de alto contraste  
-- Upload de logo e banner  
-- Tradução automática das tags (opcional)  
-- 18+ com marcação visual  
-- Totalmente responsivo  
+- Contador de capítulos  
+- Ano, autor e artista  
+- Sinopse completa  
+- Sessão de capítulos  
+
+Uma das páginas mais bonitas do tema.
 
 ---
 
-# 💰 **Preço**
+# 🟦 Login / Cadastro
+Inclui:
+- Login por email ou nome de usuário  
+- Senha  
+- Link para criar conta  
+- UI minimalista  
 
-**R$ 250 à vista**  
-**Ou parcelado no cartão de crédito**
+---
 
-Entrega imediata após o pagamento.
+# 🟦 Minha Conta
+Mostra:
+- Notificações  
+- Mangás favoritados  
+- Botão de logout  
 
 ---
 
-# 📞 **Contato para comprar**
+# 🟩 Painel Admin Completo
 
-**Discord:** `paadree`  
-**WhatsApp:** **47 98417-0674**
-
-Entre em contato para receber a versão completa, instalação e suporte.
+## Dashboard com:
+- Mangás cadastrados  
+- Capítulos disponíveis  
+- Usuários  
+- Total de visualizações  
+- Status das APIs  
+- Lista geral dos mangás com:
+  - Capa  
+  - Tags  
+  - Views  
+  - Capítulos  
+  - Botões: Editar, Ver, Adicionar capítulo, Deletar  
 
 ---
+
+# 🛠 Configurações do Site
+Possível configurar:
+
+### Identidade visual
+- Nome do site  
+- Rodapé  
+- Tema (Dark/Light)  
+- Logo via link ou upload  
+- Layout dos cards  
+- Banner publicitário lateral  
+
+### Funcionalidades
+- Login e registro  
+- Favoritos e notificações  
+- Barra de tags  
+- Atualização automática pelas APIs  
+
+---
+
+# 👤 Gerenciamento de Usuários
+Permite definir permissões:
+
+- Admin  
+- Adicionar mangá  
+- Adicionar capítulo  
+- Deletar mangá  
+- Deletar capítulo  
+
+Inclui tabela com todos os usuários.
+
+---
+
+# 📁 Envio de Capítulos (com todas as telas abaixo)
+
+Essa é uma das áreas mais poderosas do MangaShelf.
+
+---
+
+# 🟨 Envio Manual de Capítulos
+O admin pode enviar capítulos de três formas:
+
+### **1. PDF Completo**
+- Ideal para leitura paginada  
+- Upload direto  
+
+### **2. ZIP de Imagens**
+- As páginas são ordenadas automaticamente pelo nome  
+- Upload rápido  
+
+### **3. Imagens Individuais**
+- O sistema junta tudo e cria o capítulo  
+- Basta enviar na ordem certa  
+
+---
+
+# 🟨 Envio em Lote (ZIPs com nome do capítulo)
+Upload de vários capítulos de uma vez:
+
+Exemplos:  
+1.zip
+1.1.zip
+
+
+Cada ZIP vira automaticamente **um capítulo**.
+
+Perfeito para scanlators.
+
+---
+
+# 🟩 Importação Automática de Capítulos (MangaDex)
+Inclui:
+
+### Buscar manga → Listar capítulos → Importar
+- Busca pelo título  
+- Lista todos os capítulos em PT-BR/PRT  
+- Permite:
+  - Importar **um capítulo**
+  - Importar **todos**
+  - Importar **10 em 10**
+
+A interface exibe:
+- Número  
+- Título do capítulo  
+- Idioma  
+
+Tudo pronto para trabalhar rápido, sem dores de cabeça.
+
+---
+
+# 🟦 Tela: Listagem de Mangás (Modo Lista)
+Mostra:  
+- Capa  
+- Título  
+- Sinopse curta  
+- Botão “Ler”  
+- Tags  
+- Informações menores em layout compacto  
+
+Perfeito para quem prefere navegação mais rápida.
+
+---
+
+# 🎁 O que está incluso na compra
+
+- Tema completo  
+- Painel admin  
+- Sistema de favoritos  
+- Upload de capítulos (manual, em lote e automático)  
+- Integrações com APIs  
+- Tema dark premium  
+- Responsividade total  
+- Código organizado  
+- Suporte para instalação  
+
+---
+
+# 💸 Preço
+✔ **R$ 250,00 à vista**
+
+---
+
+# 📞 Contato
+📱 WhatsApp: **47984170674**  
+💬 Discord: **paadree**
+
+---
+
+# ⭐ Observação Final
+Este é um tema profissional, perfeito para:
+- Scanlators  
+- Plataformas de leitura  
+- Projetos de catálogo  
+- Sites pessoais  
+- Sistemas de gerenciamento de mangás  
