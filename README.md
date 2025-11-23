@@ -11,6 +11,36 @@ Interface moderna, completa e integrada com APIs profissionais.
 
 O **MangaShelf** é um tema premium completo para criação de sites de mangás, manhwas e webtoons utilizando **PHP + MySQL + Tailwind**.
 
+
+![Imagem 1](https://i.postimg.cc/D0sFDJmr/1.png)
+
+![Imagem 2](https://i.postimg.cc/0jmx3Mrn/2.png)
+
+![Imagem 3](https://i.postimg.cc/MHRx4MX0/3.png)
+
+![Imagem 4](https://i.postimg.cc/BbDsyLtB/4.png)
+
+![Imagem 5](https://i.postimg.cc/NFTYV9LC/5.png)
+
+![Imagem 6](https://i.postimg.cc/J0JmgDtT/6.png)
+
+![Imagem 7](https://i.postimg.cc/1X6PTn4v/7.png)
+
+![Imagem 8](https://i.postimg.cc/rsWcb0zH/8.png)
+
+![Imagem 9](https://i.postimg.cc/Hn5HKcjK/9.png)
+
+![Imagem 10](https://i.postimg.cc/LXG2NB4t/10.png)
+
+![Imagem 11](https://i.postimg.cc/T1mGSLhW/11.png)
+
+![Imagem 12](https://i.postimg.cc/L5fR7YhJ/12.png)
+
+![Imagem 13](https://i.postimg.cc/0jmx3MrD/13.png)
+
+![Imagem 14](https://i.postimg.cc/0jmx3Mr7/14.png)
+
+
 Inclui:
 - Painel admin completo  
 - Sistema de capítulos  
